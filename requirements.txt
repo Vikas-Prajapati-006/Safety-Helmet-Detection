@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+pandas
+numpy
+flask
+flask-cors
+transformers
+torch
+torchvision
+torchaudio
+easyocr
+pillow
+-e .

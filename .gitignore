@@ -1,0 +1,16 @@
+# Environments & Metadata
+venv/
+*.egg-info/
+helmet_detection.egg-info/
+
+# ML & Logs
+artifacts/
+logs/
+
+# Python Cache
+**/__pycache__/
+*.py[cod]
+
+# Testing & Local Data
+testing.py
+static/
