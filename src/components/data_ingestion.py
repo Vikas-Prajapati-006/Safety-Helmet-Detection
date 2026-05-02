@@ -7,7 +7,7 @@ class DataIngestionConfig:
 
     def __init__(self):
 
-        self.model_file_path = os.path.join('artifacts','best.pt')
+        self.model_file_path = "best.pt"
 
 class DataIngestion:
 

@@ -7,7 +7,7 @@ from src.exception import CustomException
 
 class PredictionPipeline:
     def __init__(self):
-        self.model_path = os.path.join("artifacts","best.pt")
+        self.model_path = "best.pt"
 
     def predict(self,image_path):
 
