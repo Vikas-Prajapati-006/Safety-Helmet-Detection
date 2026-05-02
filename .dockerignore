@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.git
+.gitignore
+data/
+runs/
+.ipynb_checkpoints/
+venv/
+artifacts/
+logs/
+helmet_detection.egg-info/
